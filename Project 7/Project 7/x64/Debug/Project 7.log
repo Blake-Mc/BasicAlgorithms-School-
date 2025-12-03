@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Dev\School\Project 7\Project 7\Source.cpp(109,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Dev\School\Project 7\Project 7\Source.cpp(120,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Dev\School\Project 7\Project 7\Source.cpp(125,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Dev\School\Project 7\Project 7\Source.cpp(141,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Project 7.vcxproj -> C:\Dev\School\Project 7\x64\Debug\Project 7.exe
